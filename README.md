@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 😃
+## I am a student at St. Annes-Belfield in the heart of Charlottesville, VA.
+## I enjoy coding in python and java and messing around with LLMs I can find on he internet. (I'm still trying to figure out how to make my own!)
 
 <!--
 **jakemm28/jakemm28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
